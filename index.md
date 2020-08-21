@@ -1,4 +1,11 @@
-<title> GeoPosto </title>
+<!DOCTYPE html>
+<html lang="pt-br">
+
+  <head>
+    <meta charset='utf-8'>
+    <title>GeoPosto</title>
+    <meta name="viewport" content="width=device-width,maximum-scale=1">
+  </head>
 
 <h2 style="color: #D3D3D3; font-family: Palatino Linotype"> Seja bem vindo ao repositório GeoPosto.</h2>
 
