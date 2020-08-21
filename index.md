@@ -1,4 +1,4 @@
-<h2 style="color: #D3D3D3; font-family: Palatino Linotype"> Seja bem vindo ao repositório GeoPosto.</h2>
+<h2 style="color: #000000; font-family: Palatino Linotype; font-weight: bold;"> Seja bem vindo ao repositório GeoPosto.</h2>
 
 Segue alguns pontos importantes referente as funcionalidades da aplicação.
 
@@ -11,5 +11,3 @@ Segue alguns pontos importantes referente as funcionalidades da aplicação.
 </ul>
 
 <p><img src="https://svgsilh.com/svg_v2/160119.svg" alt="Imagem de um mangueira de gasolina" widht="120" height="200" /></p>
-
-Teste
