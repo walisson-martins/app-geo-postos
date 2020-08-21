@@ -2,7 +2,7 @@
 
 Segue alguns pontos importantes referente as funcionalidades da aplicação.
 
-<h2> Objetivos </h2>
+<h3> Objetivos </h3>
 <p> O GeoPosto tem como objetivo atender as necessidades dos usuários que necessitam de informações referentes aos preçõs dos combustíveis de sua região, pois atualmente essas informações são de extrema importância para o usuário, tanto financeiramente, quanto em relação ao tempo gasto na procura por esses valores, e também o usuário ficará sempre por dentro de tais informações, cabendo a ele decidir em qual posto melhor atende o seu bolso.>/p>
 
 <ul>
@@ -15,8 +15,8 @@ Segue alguns pontos importantes referente as funcionalidades da aplicação.
 
 <p><img src="https://svgsilh.com/svg_v2/160119.svg" alt="Imagem de um mangueira de gasolina" widht="120" height="200" /></p>
 
-
-<h3> O objetivo desta página visa repassar algumas informações preeliminares referente a aplicação proposta, 
+<h3> Resumo </h3>
+<p> O objetivo desta página visa repassar algumas informações preeliminares referente a aplicação proposta, 
      tendo em vista que o projeto será inteiramente desenvolvimento no decorrer deste semestre na matéria de projeto de TCC.
   @Walisson_Martins
-</h3>
+</p>
