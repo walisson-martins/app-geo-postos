@@ -3,7 +3,7 @@
 Segue alguns pontos importantes referente as funcionalidades da aplicação.
 
 <h3> Objetivos </h3>
-<p> O GeoPosto tem como objetivo atender as necessidades dos usuários que necessitam de informações referentes aos preçõs dos combustíveis de sua região, pois atualmente essas informações são de extrema importância para o usuário, tanto financeiramente, quanto em relação ao tempo gasto na procura por esses valores, e também o usuário ficará sempre por dentro de tais informações, cabendo a ele decidir em qual posto melhor atende o seu bolso.>/p>
+<p> O GeoPosto tem como objetivo atender as necessidades dos usuários que necessitam de informações referentes aos preçõs dos combustíveis de sua região, pois atualmente essas informações são de extrema importância para o usuário, tanto financeiramente, quanto em relação ao tempo gasto na procura por esses valores, e também o usuário ficará sempre por dentro de tais informações, cabendo a ele decidir em qual posto melhor atende o seu bolso.</p>
 
 <ul>
   <li> <b>Login/Cadastro; </b> </li>
