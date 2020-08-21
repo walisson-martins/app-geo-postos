@@ -1,3 +1,5 @@
+<title> GeoPosto </title>
+
 Seja bem vindo ao repositório GeoPosto,
 
 Segue alguns pontos importantes referente as funcionalidades da aplicação.
@@ -9,3 +11,5 @@ Segue alguns pontos importantes referente as funcionalidades da aplicação.
   <li> Material UI (Framework CSS - baseado em React); </li>
   <li> GPS </li>
 </ul>
+
+
