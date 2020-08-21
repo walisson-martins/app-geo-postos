@@ -21,3 +21,4 @@ Segue alguns pontos importantes referente as funcionalidades da aplicação.
 
 <p><img src="https://svgsilh.com/svg_v2/160119.svg" alt="Imagem de um mangueira de gasolina" widht="120" height="200" /></p>
 
+Teste
