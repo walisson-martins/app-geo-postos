@@ -13,7 +13,6 @@ Segue alguns pontos importantes referente as funcionalidades da aplicação.
   <li> <b> GPS </b> </li>
 </ul>
 
-<p><img src="https://svgsilh.com/svg_v2/160119.svg" alt="Imagem de um mangueira de gasolina" widht="120" height="200" /></p>
 <p><img src="https://image.flaticon.com/icons/svg/46/46314.svg" widht="120" height="200" /></p>
 
 <h3> Resumo </h3>
@@ -21,3 +20,4 @@ Segue alguns pontos importantes referente as funcionalidades da aplicação.
      tendo em vista que o projeto será inteiramente desenvolvimento no decorrer deste semestre na matéria de projeto de TCC.
   @Walisson_Martins
 </p>
+
