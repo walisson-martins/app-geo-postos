@@ -14,6 +14,7 @@ Segue alguns pontos importantes referente as funcionalidades da aplicação.
 </ul>
 
 <p><img src="https://svgsilh.com/svg_v2/160119.svg" alt="Imagem de um mangueira de gasolina" widht="120" height="200" /></p>
+<p><img src="https://image.flaticon.com/icons/svg/46/46314.svg" widht="120" height="200" /></p>
 
 <h3> Resumo </h3>
 <p> O objetivo desta página visa repassar algumas informações preeliminares referente a aplicação proposta, 
