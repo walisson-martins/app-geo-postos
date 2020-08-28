@@ -1,9 +1,10 @@
 <h2 style="color: #000000; font-family: Palatino Linotype; font-weight: bold;"> Seja bem vindo ao repositório GeoPosto.</h2>
 
 Segue alguns pontos importantes referente as funcionalidades da aplicação.
-
+<hr>
 <h3> Objetivos </h3>
 <p> O GeoPosto tem como objetivo atender as necessidades dos usuários que necessitam de informações referentes aos preçõs dos combustíveis de sua região, pois atualmente essas informações são de extrema importância para o usuário, tanto financeiramente, quanto em relação ao tempo gasto na procura por esses valores, e também o usuário ficará sempre por dentro de tais informações, cabendo a ele decidir em qual posto melhor atende o seu bolso.</p>
+<hr>
 
 <ul>
   <li> <b>Login/Cadastro; </b> </li>
@@ -14,6 +15,19 @@ Segue alguns pontos importantes referente as funcionalidades da aplicação.
 </ul>
 
 <p><img src="https://image.flaticon.com/icons/svg/46/46314.svg" widht="120" height="200" /></p>
+<hr>
+
+<h3>  Tecnologias utilizadas no projeto </h3>
+
+<ul>
+  <li> <b>React Native; </b> </li>
+  <li> <b>Android Studio (SDK); </b> </li>
+  <li> <b>Visual Studio Code; </b> </li>
+  <li> <b>JSON; </b> </li>
+  <li> <b> SDK (JAVA) </b> </li>
+</ul>
+
+<hr>
 
 <h3> Resumo </h3>
 <p> O objetivo desta página visa repassar algumas informações preeliminares referente a aplicação proposta, 
