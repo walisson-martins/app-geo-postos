@@ -27,11 +27,11 @@ Segue alguns pontos importantes referente as funcionalidades da aplicação.
   <li> <b> SDK (JAVA) </b> </li>
 </ul>
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" widht="80" height="100" />
-  <img src="https://miro.medium.com/max/571/1*zxewA7bZ_RN6lVolYVmbUA.png" widht="80" height="100" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRkJAu_y-x8imTtS0VIQMgKnevc-fr17kMREw&usqp=CAU" widht="80" height="100" />
-  <img src="https://miro.medium.com/max/512/1*4e5PgSBgxgFolqvob9x_Wg.png" height="100" />
-  <img src="https://static.canaltech.com.br/conteudo/Pedro/O_que_e_java_jdk_jre_e_jvm/O_que_e_Java_JDK_JRE_JVM.jpg" widht="80" height="100" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" widht="40" height="60" />
+  <img src="https://miro.medium.com/max/571/1*zxewA7bZ_RN6lVolYVmbUA.png" widht="40" height="60" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRkJAu_y-x8imTtS0VIQMgKnevc-fr17kMREw&usqp=CAU" widht="40" height="60" />
+  <img src="https://miro.medium.com/max/512/1*4e5PgSBgxgFolqvob9x_Wg.png" widht="40" height="60" />
+  <img src="https://static.canaltech.com.br/conteudo/Pedro/O_que_e_java_jdk_jre_e_jvm/O_que_e_Java_JDK_JRE_JVM.jpg" widht="40" height="60" />
 </p>
 <hr>
 
