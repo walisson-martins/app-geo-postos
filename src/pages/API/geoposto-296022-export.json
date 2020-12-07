@@ -1,0 +1,131 @@
+{
+  "postos" : {
+    "1606858996443" : {
+      "GNV" : "2,90",
+      "alcool" : "3,25",
+      "cpfCadastrante" : "04961632139",
+      "dataHora" : "Wed Dec 02 2020 18:29:22",
+      "diesel" : "3,10",
+      "gasolina" : "4,50",
+      "gasolinaAditivada" : "4,80",
+      "id" : 1606858996443,
+      "latitude" : -15.7973744697402,
+      "longitude" : -47.889491803944104,
+      "nome" : "Posto PETROBRAS"
+    },
+    "1606941162551" : {
+      "GNV" : "3,10",
+      "alcool" : "4,25",
+      "cpfCadastrante" : "04961632139",
+      "dataHora" : "Wed Dec 02 2020 18:56:44",
+      "diesel" : "3,29",
+      "gasolina" : "4,25",
+      "gasolinaAditivada" : "4,80",
+      "id" : 1606941162551,
+      "latitude" : -15.806148060213646,
+      "longitude" : -47.89278723299503,
+      "nome" : "Posto Resende"
+    },
+    "1" : {
+      "GNV" : "3,20",
+      "alcool" : "4,15",
+      "cpfCadastrante" : "04961632139",
+      "dataHora" : "Wed Dec 02 2020 18:56:44",
+      "diesel" : "3,09",
+      "gasolina" : "4,55",
+      "gasolinaAditivada" : "4,90",
+      "id" : 1606941162551,
+      "latitude" : -15.621164,
+      "longitude" : -47.638049318,
+      "nome" : "Posto Andrade"
+    }
+    ,
+    "2" : {
+      "GNV" : "3,25",
+      "alcool" : "4,45",
+      "cpfCadastrante" : "04961632139",
+      "dataHora" : "Wed Dec 02 2020 18:56:44",
+      "diesel" : "3,19",
+      "gasolina" : "4,55",
+      "gasolinaAditivada" : "4,60",
+      "id" : 1606941162551,
+      "latitude" : -15.6206971,
+      "longitude" : -47.6382056,
+      "nome" : "Posto techaco"
+    },
+    "3" : {
+      "GNV" : "3,30",
+      "alcool" : "4,25",
+      "cpfCadastrante" : "04961632139",
+      "dataHora" : "Wed Dec 02 2020 18:56:44",
+      "diesel" : "3,29",
+      "gasolina" : "4,45",
+      "gasolinaAditivada" : "4,80",
+      "id" : 1606941162551,
+      "latitude" : -15.6205604,
+      "longitude" : -47.6384289,
+      "nome" : "Posto de planaltina"
+    },
+    "4" : {
+      "GNV" : "3,10",
+      "alcool" : "4,25",
+      "cpfCadastrante" : "04961632139",
+      "dataHora" : "Wed Dec 02 2020 18:56:44",
+      "diesel" : "3,19",
+      "gasolina" : "4,35",
+      "gasolinaAditivada" : "4,70",
+      "id" : 1606941162551,
+      "latitude" : -15.621164,
+      "longitude" : -47.638049318,
+      "nome" : "Posto Itiquira"
+    },
+    "5" : {
+      "GNV" : "3,20",
+      "alcool" : "4,15",
+      "cpfCadastrante" : "04961632139",
+      "dataHora" : "Wed Dec 02 2020 18:56:44",
+      "diesel" : "3,09",
+      "gasolina" : "4,55",
+      "gasolinaAditivada" : "4,90",
+      "id" : 1606941162551,
+      "latitude" : -15.6201149,
+      "longitude" : -47.6381466,
+      "nome" : "Posto Candido"
+    },
+    "6" : {
+      "GNV" : "3,10",
+      "alcool" : "3.95",
+      "cpfCadastrante" : "04961632139",
+      "dataHora" : "Wed Dec 02 2020 18:56:44",
+      "diesel" : "3,00",
+      "gasolina" : "4,25",
+      "gasolinaAditivada" : "4,70",
+      "id" : 1606941162551,
+      "latitude" : -15.619707,
+      "longitude" : -47.638158,
+      "nome" : "Posto Alvorada"
+    },
+    "7" : {
+      "GNV" : "3,15",
+      "alcool" : "4,25",
+      "cpfCadastrante" : "04961632139",
+      "dataHora" : "Wed Dec 02 2020 18:56:44",
+      "diesel" : "3,19",
+      "gasolina" : "4,35",
+      "gasolinaAditivada" : "4,50",
+      "id" : 1606941162551,
+      "latitude" : -15.619249,
+      "longitude" : -47.6375161,
+      "nome" : "Posto Macedo"
+    }},
+    "usuarios" : {
+      "04961632139" : {
+        "cpf" : "04961632139",
+        "email" : "walisson.martinsti@gmail.com",
+        "endereco" : "Quadra 24 conjunto c casa 4",
+        "nome" : "Walisson Martins da Silva",
+        "senha" : "123",
+        "telefone" : "61993735587"
+      }    
+  }
+}

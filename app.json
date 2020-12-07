@@ -1,0 +1,12 @@
+{
+  "name": "geoposto",
+  "displayName": "geoposto",
+  "expo": {
+    "name": "geoposto",
+    "slug": "geoposto",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
